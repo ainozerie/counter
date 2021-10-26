@@ -97,3 +97,10 @@ footer {
   justify-content: center;
   align-items: center;
 }
+
+.even {
+  background-color: yellowgreen;
+}
+.odd {
+  background-color: deeppink;
+}
